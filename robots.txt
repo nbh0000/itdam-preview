@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://nbh0000.github.io/itdam-preview/sitemap.xml
